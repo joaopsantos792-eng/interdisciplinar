@@ -8,5 +8,6 @@ Criado por João Pedro e contribuintes: Fernanda Ajala, Daniel batista, katellyn
 *Daniel:* o projeto vai retratar as visões das matérias do curso acerca da cyber segurança além de falar sobre pautas sociais também envolvidas, na minha parte eu retratei muito sobre o papel dos programadores na segurança dos usuários e dicas de como fazer um código seguros, sem dar brechas para pessoas má intencionadas como o sql injection
 
 Não há custo capital nesse projeto no momento da escritura do readme.
-
+ 
+**Alana**:No projeto, eu falei sobre o desenvolvimento de uma solução tecnológica para resolver um problema ou atender a uma necessidade. Mostrei algumas etapas, como identificar o problema, planejar, desenvolver, testar e colocar o projeto em funcionamento. Também destaquei a importância dos diagramas, como fluxogramas e diagramas de caso de uso, além da UML, que ajuda a organizar e representar o funcionamento do sistema. Expliquei a importância da informática nos projetos, principalmente na criação de soluções, na organização das informações e na automação de tarefas. Por fim, ressaltei a importância da segurança da informação e da cibersegurança para proteger os sistemas e os dados.
 Copyright © 2026 João Pedro. Todos os direitos reservados. Este código é público apenas para visualização e portfólio e tem como fins apresentação de um trabalho de conclusão de curso; não é permitida a cópia, modificação ou redistribuição.
